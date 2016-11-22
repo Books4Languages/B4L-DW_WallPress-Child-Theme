@@ -1,0 +1,18 @@
+/**
+*Theme Name:	Boardwalk Child Theme
+*Theme URI: https://wordpress.com/themes/boardwalk/
+*Author:		zeliha ayranci
+*Author URI:	http://mylanguageskills.wordpress.com
+*Template:		boardwalk
+*Description:	Boardwalk Child Theme 
+*Version:		1.0
+*License:		GNU General Public License v2 or later
+*License URI:	http://www.gnu.org/licenses/gpl-2.0.html
+*Text Domain:	boardwalk-child
+*Tags: light, gray, green, white, one-column, responsive-layout, custom-menu, featured-images, post-formats, rtl-language-support, sticky-post, *theme-options, translation-ready, holiday, photoblogging
+*/
+@import url("../boardwalk/style.css");
+
+
+/*entry title date's*/
+.entry-date.published{display:none;}
