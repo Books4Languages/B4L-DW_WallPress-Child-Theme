@@ -1,3 +1,5 @@
+https://www.smashingmagazine.com/2011/11/improve-wordpress-plugins-readme-txt/
+
 # B4L-DW_WallPress-Child-Theme
 A child theme for DW WallPress catalog theme 
 
