@@ -21,3 +21,6 @@
 
 // include_once plugin_dir_path( __FILE__ ) . "symbionts/featured-audio/featured-audio.php";
 // include_once plugin_dir_path( __FILE__ ) . "symbionts/search-filter-pro/search-filter-pro.php";
+
+//include metabox file php
+  include_once plugin_dir_path( __FILE__) . "metabox.php";
