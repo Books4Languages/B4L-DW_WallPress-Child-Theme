@@ -79,7 +79,7 @@ function register_taxonomy_grammar() {
 
    $labels = array(
        'name' => _x( 'Grammar', 'grammar' ),
-       'singular_name' => _x( 'Component', 'grammar' ),
+       'singular_name' => _x( 'Grammar', 'grammar' ),
        'search_items' => _x( 'Search Grammars', 'grammar' ),
        'popular_items' => _x( 'Popular Grammars', 'grammar' ),
        'all_items' => _x( 'All Grammars', 'grammar' ),
@@ -137,7 +137,7 @@ function register_taxonomy_vocabulary() {
        'search_items' => _x( 'Search Vocabularies', 'vocabulary' ),
        'popular_items' => _x( 'Popular Vocabularies', 'vocabulary' ),
        'all_items' => _x( 'All Vocabularies', 'vocabulary' ),
-       'parent_item' => _x( 'Parent Component', 'vocabulary' ),
+       'parent_item' => _x( 'Parent Vocabularies', 'vocabulary' ),
        'parent_item_colon' => _x( 'Parent Vocabulary:', 'vocabulary' ),
        'edit_item' => _x( 'Edit Vocabulary', 'vocabulary' ),
        'update_item' => _x( 'Update Vocabulary', 'vocabulary' ),
@@ -188,7 +188,7 @@ function register_taxonomy_orthography() {
 
    $labels = array(
        'name' => _x( 'Orthography', 'orthography' ),
-       'singular_name' => _x( 'Component', 'orthography' ),
+       'singular_name' => _x( 'Orthography', 'orthography' ),
        'search_items' => _x( 'Search Orthographies', 'orthography' ),
        'popular_items' => _x( 'Popular Orthographies', 'orthography' ),
        'all_items' => _x( 'All Orthographies', 'orthography' ),
